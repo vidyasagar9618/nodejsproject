@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "proud-breaker-414405",
+  "private_key_id": "c17d8f4942e00e2ebb89d0a3fa63191e2ac09db7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDaTiKZMFHudcFq\nmI0ygYx/W6DTnbLN5IPLsGXgrS2uni2sBIfRbSAYGcz8VHg6KA0jj326bcH0OUdk\nmn1vAjVxH695GruqvckMZKjwBDtNdjtvh51Z2N4Ug9y7unt0j1Ve3AqmX7W+92Ze\niV47XalVAyblewdWKmgeiHtXqBGxS6mDXhzOkY4hMBy/8N8v+ARmdZwjfTjp2oMY\nTK9lfKeH68tolsbcvgt5MdghuDUHGrD6z81SyS9VUCWhGuLea3eJiLT7fYIsx0RB\nFG0zsJP9nWnyN+eMXv+7YUYsjxsSFEwckHiKnT8fv2l2MSWI93nD4kuuKZKRuLRC\nyCdKBUdLAgMBAAECggEAQ3HjZ4+RqIoR9RRnfySeGxTcdbShctH4U/xOJWFrnSi6\ndIw7x9yej0OdXJHeSR1pncRttCTHyOPPZkoCmcLFbws6g8BaHZCf5ifNN8Ye6jou\nd7Ee0IzbY9wvXIJrNOI5nmJ+GdO1C2hU5L0s80tnDuA36qsdY6YbX9+Lt9Oxj6P+\nCWPsFxRScWmvo6xOZ3f44ijVhYGnFRsvubbbN9l75mf2XdZtVcckOjt0Wuie0aBd\ns/uvEMrkOxol2yxQUyqgkIF6hXH+Si9LLzyM5n86freYva5F/NQWELEPrytx7gaR\nvSOQXIhBGmcdpSd42cZEy6+vUvMjBOerGZVnJbSvcQKBgQDuUmZtq+UKkdjvu1uP\nqexOv7LMEzj3pORJ915dv45W+/VWHCmlqXcY0+SrP0aXGRCVJHLSKfbTg2VapxMe\nEo2OlGsCZtIOmGcSn4EAxFwJ5xKwczr5M85ehHSw5dXjecPLVvYsH+E1X8E/hrha\nUe3ctZnnJ84MXMqF1lpJ7Lv8WwKBgQDqf6E6VZ2lEzEn9Lj9XmdLfp8PlJKcteJX\n5EDp58UC6RWIVf5lOevu6t7G9d1WQ15N4EVWSb1dIPDX5PHyLjpTMw5fjtQHJxcd\nqqhDxC+Jx2rgRTAahwqqn8ge55ENwGabXWwn6fCOwG0fdPRaSt4P3BNXG7wtm02A\nOvlTiSyT0QKBgGB5luFarpOCyxDxBXW40eJnE9gtB+ioJYoTy22j99kakgxTxkA7\nw+yXCoCQUuEj0mStppWRS0wAau0xqTmJRSisyEzmlq4137PYQf6vfpq7ogMwAnWT\nFT2J3TsnL1iwmCQehfUCysYyhyZSQRq/A81O7oh2wqCah5l6Vn6KiOb1AoGBANbZ\n5VDbTLsIYItpT2zlZ+Llurq9t67Zfu5kdY1aC0nlYRMvJwx8C0016LOGZSs6Qlc7\n2ot6uINxQPmuDHeGH25HYy3uYRnEmQtXZx/fymaETcn52l8Tx5QZHXQjWuWsmNZU\nvFm9n+hLKjAeKhvoaJlDXHz9Lmbi2hlY70O4dR1hAoGBAOSJRYdB6QKddV7gV6U6\nD3LlXf1YoGRzBzbwSbEgNTnV+ONSwsM5qZ+EHsjkIXQfUiZeMTW35voK0ZFUTtLE\nsJzixJsEh8BFuW+nN07sPocIiatQaKcaNL/h/76lxgj2cEIckfyr6Z1W18OsdkuP\n7ZFlExSE1GU8nPomS4MMcPlQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "codewithvidya@proud-breaker-414405.iam.gserviceaccount.com",
+  "client_id": "106882519409946821143",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/codewithvidya%40proud-breaker-414405.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
